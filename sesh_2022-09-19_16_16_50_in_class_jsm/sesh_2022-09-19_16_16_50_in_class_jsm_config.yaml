@@ -1,0 +1,23 @@
+recording_parameters:
+  numCams: 3
+  numFrames: 1108
+  numTrackedPoints:
+  RotationInputs:
+    0: 270
+    1: 270
+    2: 270
+  ParameterDict:
+    exposure: -6
+    resWidth: 1280
+    resHeight: 720
+    framerate: 30
+    codec: DIVX
+session_paths:
+  RawVideos: C:\Users\jonma\Dropbox\FreeMoCapProject\FreeMocap_Data\sesh_2022-09-19_16_16_50_in_class_jsm\RawVideos
+  SyncedVideos: C:\Users\jonma\Dropbox\FreeMoCapProject\FreeMocap_Data\sesh_2022-09-19_16_16_50_in_class_jsm\SyncedVideos
+  CalVideos: C:\Users\jonma\Dropbox\FreeMoCapProject\FreeMocap_Data\sesh_2022-09-19_16_16_50_in_class_jsm\CalVideos
+  DataArrays: C:\Users\jonma\Dropbox\FreeMoCapProject\FreeMocap_Data\sesh_2022-09-19_16_16_50_in_class_jsm\DataArrays
+  DLCData: C:\Users\jonma\Dropbox\FreeMoCapProject\FreeMocap_Data\sesh_2022-09-19_16_16_50_in_class_jsm\DLCData
+  OpenPoseData: C:\Users\jonma\Dropbox\FreeMoCapProject\FreeMocap_Data\sesh_2022-09-19_16_16_50_in_class_jsm\OpenPoseData
+  MediaPipeData: C:\Users\jonma\Dropbox\FreeMoCapProject\FreeMocap_Data\sesh_2022-09-19_16_16_50_in_class_jsm\MediaPipeData
+  imOut: C:\Users\jonma\Dropbox\FreeMoCapProject\FreeMocap_Data\sesh_2022-09-19_16_16_50_in_class_jsm\imOut
